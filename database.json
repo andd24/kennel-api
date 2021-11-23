@@ -13,6 +13,13 @@
             "breed": "barkydog",
             "customerId": 2,
             "locationId": 1
+        },
+        {
+            "id": 3,
+            "name": "Killer",
+            "breed": "Shitzu",
+            "customerId": 3,
+            "locationId": 1
         }
     ],
     "customers": [
@@ -25,9 +32,35 @@
             "id": 2,
             "name": "Dalton Tall",
             "address": "102 Lake Rd"
+        },
+        {
+            "id": 3,
+            "name": "Darren Ball",
+            "address": "99 Swiss Ln"
         }
     ],
-    "employees": [],
+    "employees": [
+        {
+            "id": 1,
+            "name": "Jeremy Bakker",
+            "locationId": 2
+        },
+        {
+            "id": 2,
+            "name": "Tanya Rene",
+            "locationId": 1
+        },
+        {
+            "id": 3,
+            "name": "Kayla Gill",
+            "locationId": 2
+        },
+        {
+            "id": 4,
+            "name": "Jeff Coly",
+            "locationId": 1
+        }
+    ],
     "locations": [
         {
             "id": 1,
